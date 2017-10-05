@@ -71,6 +71,14 @@ img{
 .str{
   color:white;
 }
+
+.menu{
+  float:left;
+}
+
+.search{
+  float:right;
+}
 @media (max-width: 800px) {
   .stars{
     font-size: 3em;
