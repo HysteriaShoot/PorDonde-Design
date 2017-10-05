@@ -8,7 +8,7 @@
   box-sizing: inherit;
 }
 body {
-  background-color: #eee;
+  background-color: #fff;
   font-family: Helvetica, Arial, sans-serif;
 }
 body * + * {
@@ -63,7 +63,6 @@ img{
 }
 .stars{
   font-size: 1.5em;
-  color:white;
 }
 @media (max-width: 800px) {
   .stars{
