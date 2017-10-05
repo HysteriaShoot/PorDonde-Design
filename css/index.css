@@ -26,7 +26,7 @@ header {
   padding: 0 -1.5em;
 }
 .container {
-  max-width: 1920px;
+  max-width: auto;
   margin: .2;
 }
 .destacado{
