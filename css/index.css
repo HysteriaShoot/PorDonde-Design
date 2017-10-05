@@ -10,7 +10,6 @@
 body {
   background-color: #fff;
   font-family: Helvetica, Arial, sans-serif;
-  color:white;
 }
 body * + * {
   margin-top: 1.5em;
@@ -46,6 +45,7 @@ header {
   padding: 0.25em;
   background-color: #00b090;
   border-radius: 0.5em;
+  color:white;
 }
 .media:nth-child {
   clear: left;
