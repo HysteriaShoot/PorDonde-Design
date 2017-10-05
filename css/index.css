@@ -66,6 +66,10 @@ img{
 .stars{
   font-size: 1.5em;
 }
+
+.str{
+  color:white;
+}
 @media (max-width: 800px) {
   .stars{
     font-size: 3em;
